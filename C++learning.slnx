@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="concurrent_learn/concurrent_learn.vcxproj" />
+  <Project Path="concurrent_learn/concurrent_learn.vcxproj" Id="c159932a-cd5a-495a-88fb-7d3ed9f60c75" />
 </Solution>
